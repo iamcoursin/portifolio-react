@@ -10,17 +10,17 @@ function ProjetoDisplay() {
   return (
     <div className="project">
       <h1> {project.name}</h1>
-      <img src={project.image} alt='Apenas mais um projeto do payet' />
+      <img src={project.image} alt="Apenas mais um projeto do payet" />
       <p>
         <b>Skills:</b> {project.skills}
       </p>
       <a
-            href={`https://github.com/${project.perfil}/${project.link}`}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-          <GithubIcon />
-          </a>
+        href={`https://github.com/${project.perfil}/${project.link}`}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <GithubIcon />
+      </a>
     </div>
   );
 }

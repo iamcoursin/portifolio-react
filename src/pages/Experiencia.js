@@ -18,7 +18,7 @@ function Experiencia() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-          Colégio Estadual Mauá
+            Colégio Estadual Mauá
           </h3>
           <p>Ensino médio concluído</p>
         </VerticalTimelineElement>
@@ -28,12 +28,10 @@ function Experiencia() {
           iconStyle={{ background: "#4B0082", color: "#fff" }}
           icon={<SchoolIcon />}
         >
-          <h3 className="vertical-timeline-element-title">
-          SERRATEC/SENAI
-          </h3>
+          <h3 className="vertical-timeline-element-title">SERRATEC/SENAI</h3>
 
           <h4 className="vertical-timeline-element-subtitle">
-             Residência de Software, EAD
+            Residência de Software, EAD
           </h4>
 
           <p>Desenvolvedor Full-Stack</p>
@@ -47,9 +45,7 @@ function Experiencia() {
           <h3 className="vertical-timeline-element-title">
             Desenvolvedor Front-end - Zenit
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            São Paulo, SP
-          </h4>
+          <h4 className="vertical-timeline-element-subtitle">São Paulo, SP</h4>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -61,9 +57,7 @@ function Experiencia() {
           <h3 className="vertical-timeline-element-title">
             Desenvolvedor Front-end - DevsFree
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            São Paulo, SP
-          </h4>
+          <h4 className="vertical-timeline-element-subtitle">São Paulo, SP</h4>
         </VerticalTimelineElement>
 
         <VerticalTimelineElement
@@ -75,15 +69,9 @@ function Experiencia() {
           <h3 className="vertical-timeline-element-title">
             Desenvolvedor Front-end - Freelancer
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Home Office
-          </h4>
+          <h4 className="vertical-timeline-element-subtitle">Home Office</h4>
         </VerticalTimelineElement>
       </VerticalTimeline>
-
-
-
-
     </div>
   );
 }

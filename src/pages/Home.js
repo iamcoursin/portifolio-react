@@ -8,6 +8,10 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
+        <img
+          src="https://img.icons8.com/stickers/256/programming.png"
+          alt="Aleatory-logo"
+        />
         <h2>Hellow, Meu nome é Gustavo Kozlowski</h2>
         <div className="prompt">
           <p>

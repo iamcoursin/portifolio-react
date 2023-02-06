@@ -22,6 +22,7 @@
   font-size: 60px;
   color: #e9d35b;
   height: 50px;
+  padding: 0;
 }
 
 .about .prompt {
@@ -38,7 +39,7 @@
 .prompt svg:hover {
   transform: scale(
     1.5
-  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  ); 
 }
 .skills {
   font-size: 35px;
@@ -65,6 +66,10 @@
 span img {
   height: 10vh;
   margin: 20px;
+}
+.about img{
+  height: 12vh;
+  cursor: pointer;
 }
 span img:hover {
   transform: scale(1.5);

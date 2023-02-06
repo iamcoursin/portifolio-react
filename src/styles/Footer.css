@@ -10,10 +10,10 @@
     margin-top: 100px;
   }
   
-  .socialMedia svg {
-    color: white;
-    margin: 10px;
-    font-size: 30px;
+
+  .contacts img{
+    margin: 5px;
+    height: 7vh;
     cursor: pointer;
   }
   

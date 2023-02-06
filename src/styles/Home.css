@@ -64,6 +64,7 @@
 }
 
 span img {
+  transition: transform 0.2s;
   height: 10vh;
   margin: 20px;
 }

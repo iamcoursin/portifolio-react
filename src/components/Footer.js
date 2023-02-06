@@ -13,7 +13,7 @@ function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src="https://img.icons8.com/clouds/256/instagram-new--v2.png"
+            src="https://img.icons8.com/fluency/256/instagram-new.png"
             alt="Instagram-logo"
           />
         </a>
@@ -24,7 +24,7 @@ function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src="https://img.icons8.com/clouds/256/linkedin.png"
+            src="https://img.icons8.com/color/256/linkedin.png"
             alt="Lindedin-logo"
           />
         </a>
@@ -35,7 +35,8 @@ function Footer() {
           number="55 24 99305-7132"
         >
           <img
-            src="https://img.icons8.com/clouds/256/whatsapp.png"
+            // src="https://img.icons8.com/clouds/256/whatsapp.png"
+            src="https://img.icons8.com/color/256/whatsapp.png"
             alt="Whatsapp-logo"
           />
         </ReactWhatsapp>

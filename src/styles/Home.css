@@ -42,7 +42,8 @@
   ); 
 }
 .skills {
-  font-size: 35px;
+ 
+  
   width: 100%;
   display: flex;
   justify-content: center;
@@ -51,6 +52,7 @@
 }
 
 .skills h1 {
+  font-size: 45px;
   color: #4b0082;
 }
 
@@ -76,6 +78,30 @@ span img:hover {
   transform: scale(1.5);
 }
 
+@media only screen and (min-width: 600px) and (max-width: 1200px){
+  .about h2 {
+    font-size: 40px;
+  }
+
+  .about .prompt {
+    margin-top: 10px;
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .skills {
+    text-align: center;
+  }
+  .list {
+    padding: 0;
+  }
+
+  .skills h2 {
+    font-size: 30px;
+  }
+
+  
+}
 @media only screen and (max-width: 600px) {
   .about h2 {
     font-size: 40px;
